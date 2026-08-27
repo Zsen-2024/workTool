@@ -1,0 +1,22 @@
+WorkTool 使用说明（发给同事）
+================================
+
+1. 系统要求
+   - Windows 10 或 Windows 11（64 位）
+   - 不支持 Windows 7 / 8
+
+2. 使用方法
+   - 将 WorkTool.exe 复制到任意文件夹
+   - 双击运行即可，无需安装 Python
+
+3. 若提示「缺少 api-ms-win-core-path-l1-1-0.dll」
+   - 请先安装 VC++ 运行库（64 位）：
+     https://aka.ms/vs/17/release/vc_redist.x64.exe
+   - 安装完成后重启电脑，再双击 WorkTool.exe
+   - 若仍是 Win7/8 系统，请换 Win10/11 电脑使用
+
+4. 首次启动可能稍慢，属正常现象
+
+5. 杀毒软件误报时，添加信任即可
+
+数据来源说明：AIHOT 资讯来自 https://aihot.virxact.com/
